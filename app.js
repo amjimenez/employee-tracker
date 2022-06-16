@@ -567,19 +567,13 @@ function viewAppCommands() {
             case 'Update Employee Role':
                 updateEmployeeRole()
                 break
-            case 'Delete Department':
-                deleteDepartment()
-                break
-            case 'Delete Role':
-                deleteRole()
-                break
             case 'Exit':
                 process.exit()
         }
     })
     .catch((error) => {
       console.log(error)
-    })
+    });
 }
 
 // Initialize app
