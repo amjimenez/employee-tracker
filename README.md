@@ -25,13 +25,11 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
+## Screenshot
+![CommandLine](Screen Shot 2022-06-17 at 12.22.17 AM)
+
 ## Walkthrough Video
 The link to the [Video](https://www.kapwing.com/videos/62abfb21aa415600d165fe3d):
 ```
 https://www.kapwing.com/videos/62abfb21aa415600d165fe3d
-```
-## Github Link
-The link to the [code](https://github.com/amjimenez/employee-tracker):
-```
-https://github.com/amjimenez/employee-tracker
 ```
